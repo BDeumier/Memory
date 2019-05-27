@@ -1,0 +1,59 @@
+/* ---------------------------------------Polices--------------------------------------- */
+
+
+/* #########################################  Responsive: ordinateurs (992+ px)  ############################################### */
+
+/* ---------------------------------------Page entière--------------------------------------- */
+
+body
+{
+	margin: 0px; /* on enlève les marges par défaut */
+	width: 100%;
+	font-family: Arial;
+}
+
+h1
+{
+	font-size: 250%;
+	margin: 15px;
+}
+
+h2
+{
+	margin: 10px;
+}
+
+p
+{
+	margin: 10px 5px;
+}
+
+/* ---------------------------------------Jeu--------------------------------------- */
+
+#mainGame
+{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#gameScreen
+{
+	background-color: rgb(234, 225, 205);
+}
+
+#cards
+{
+
+}
+
+.card
+{
+	background-color: rgb(122, 99, 48);
+	width: 60px;
+	height: 60px;
+	margin: 5px;
+	border: 2px solid black;
+	border-radius: 5px;
+}

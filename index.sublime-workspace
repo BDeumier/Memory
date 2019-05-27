@@ -1,0 +1,496 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"kana",
+				"kanaManager"
+			],
+			[
+				"level",
+				"levelNumber"
+			],
+			[
+				"leve",
+				"levelManager"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"post",
+				"postId"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"db",
+				"dbConnect"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"nom",
+				"nombre_pages"
+			],
+			[
+				"pass",
+				"password_verify"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"pas",
+				"password_hash"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"commen",
+				"commentaires"
+			],
+			[
+				"id",
+				"idBillet"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"fle",
+				"flex-start\talign-items"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"date",
+				"datewritten"
+			],
+			[
+				"timer",
+				"timerID"
+			],
+			[
+				"tex",
+				"texteReservation"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"tim",
+				"timer"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"res",
+				"resteVelos"
+			],
+			[
+				"bi",
+				"available_bikes"
+			],
+			[
+				"st",
+				"station"
+			],
+			[
+				"ti",
+				"timerID"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"se",
+				"setItem"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"imag",
+				"imagesSlider"
+			],
+			[
+				"aff",
+				"afficherTexte"
+			],
+			[
+				"dimi",
+				"diminuerTimer"
+			],
+			[
+				"affi",
+				"afficherTexte"
+			],
+			[
+				"pre",
+				"prenom"
+			],
+			[
+				"n",
+				"nom"
+			],
+			[
+				"p",
+				"prenom"
+			],
+			[
+				"bout",
+				"boutonReserver"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"is",
+				"isSigned"
+			],
+			[
+				"sessi",
+				"sessionStorage"
+			],
+			[
+				"don",
+				"donneesLocales"
+			],
+			[
+				"las",
+				"lastY"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"det",
+				"detailsStation"
+			],
+			[
+				"ad",
+				"addEventListener"
+			],
+			[
+				"marqu",
+				"marqueurStation"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3/js/App.js",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3/js/Ajax.js",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3/js/Slider.js",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3/css/style.css",
+		"/C/wamp64/www/Memory/view/template.php",
+		"/C/wamp64/www/Memory/public/css/style.css",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/model/PostManager.php",
+		"/C/wamp64/www/Memory/model/Manager.php",
+		"/C/wamp64/www/Memory/model/LevelManager.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/controller/controller.php",
+		"/C/wamp64/www/Memory/model/LevelManager",
+		"/C/wamp64/www/Memory/view/frontend/template.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/model/model.php",
+		"/C/wamp64/www/Memory/model/Manager",
+		"/C/wamp64/www/Memory/model/model.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/model/CommentManager.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/model/Manager.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/old/post.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/index.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/view/listPostsView.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/view/postView.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/post.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/view/indexView.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/style.css",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/postView.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/posts.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/admin/.htaccess",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/displayHome.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/modele.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/admin/ajouter.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/admin/chemin.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/admin/.htpasswd",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/insc",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/footer.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/admin/.htacess",
+		"/C/wamp64/www/Cours OC PHP/Cours 3/billet.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 2/target.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 2/index.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 2/app.js",
+		"/C/wamp64/www/Cours OC PHP/Cours 2/style.css",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3/index.html",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3/js/Map.js",
+		"/C/wamp64/www/Cours OC PHP/Cours 2/style",
+		"/C/wamp64/www/Cours OC PHP/Cours 1/target.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 1/index.php",
+		"/C/wamp64/www/Cours OC PHP/Cours 1/secret.php",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3/js/Reservation.js",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3 - Trello/js/Slider.js",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3 - Trello/js/Reservation.js",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3 - Trello/js/Map.js",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3 - Trello/js/App.js",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3 - Trello/css/style.css",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3 - Trello/index.html",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3 - Trello/js/Ajax.js",
+		"/C/wamp64/www/Cours OC PHP/Cours 1/info.php",
+		"/C/Users/Fuuldrin/Documents/dev web/html/projet 3 - Trello/js/Reservation"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
